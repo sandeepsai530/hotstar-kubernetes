@@ -7,7 +7,7 @@ function Footer() {
         <div className='footer'>
             <div>
                 <h3>Company</h3>
-                <a href=""><h4>About us</h4></a>
+                <a href=""><h4>About sai</h4></a>
                 <a href=""><h4>Careers</h4></a>
                 <p style={{marginTop:"20px"}}>&copy;2023 STAR . All rights reserved</p>
                 <a href=''><p>Terms of Use &nbsp; Privacy  Policy &nbsp; FAQ </p></a>
